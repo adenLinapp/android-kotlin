@@ -38,6 +38,10 @@ class MainActivity : AppCompatActivity() {
 //        |Second Line
 //        |Third Line
 //        """.trimMargin()
+
+        /** if 可以帶有返回值 **/
+//        val max = if (a > b) a else b
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
